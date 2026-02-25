@@ -1,0 +1,10 @@
+ASCII_CHARS = "@#+=:-_.` "
+FRAME_WIDTH = 120
+ASPECT_RATIO_CORRECTION = 0.55
+FPS_LIMIT = 60
+
+BRIGHTNESS = 0      # range: -100 to +100
+CONTRAST = 1.0     # range: 0.5 to 3.0
+
+CAMERA_INDEX = 0
+FLIP_HORIZONTAL = True
